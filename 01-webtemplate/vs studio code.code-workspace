@@ -1,0 +1,19 @@
+{
+	"folders": [
+		{
+			"name": "vs studio code",
+			"path": ".."
+		},
+		{
+			"name": "wwwroot",
+			"path": "../../../../Downloads/Ny mappe/wwwroot"
+		},
+		{
+			"name": "wwwroot",
+			"path": "D:/wwwroot"
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "vs studio code"
+	}
+}
